@@ -19,8 +19,10 @@ public class AppUtility {
 	public static final String QUESTION = "question";
 	public static final String ACTION = "action";
 	public static final String ANSWER = "answer";
+	
 	public static final String RESULT = "result";
 	public static final int NO_OF_QUESTIONS = 10;
+	
 
 	public static String getRoleType(int i) {
 		switch (i) {
